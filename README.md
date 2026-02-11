@@ -1,4 +1,4 @@
-# Trae Real Estate Platform
+# Real Estate Platform
 
 A modern real estate platform built with React and Node.js, enabling users to list, search, and manage properties with features like property transactions and user authentication.
 
