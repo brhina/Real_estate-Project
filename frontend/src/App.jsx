@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 // Layout components
-import Navbar from './components/layout/navbar';
+import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 
 // Page components
